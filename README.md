@@ -175,7 +175,7 @@ initiad tx staking create-validator \
 Please change "yourmoniker" with your node name, "keybase id" create on https://keybase.io paste your id,
 for website you can use twitter / github or etc.
 
-GoodLuck!!
+GoodLuck!! you can Delegate To Me : https://app.testnet.initia.xyz/validator/initvaloper1wnpv6359y4exw0gnx56gt3uvlgq870m0fly0as
 
 
 
